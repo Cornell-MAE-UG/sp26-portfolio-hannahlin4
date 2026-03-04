@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Hannah Lin
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Hannah Lin
+description              : Hannah Lin - Projects and CV 
 baseurl                  : "/sp26-portfolio-hannahlin4/" # Set this to your repo name 
 
 # Theme and Style

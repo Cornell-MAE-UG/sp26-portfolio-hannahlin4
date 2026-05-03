@@ -28,6 +28,7 @@ Area A = 2Bt + (H-2t)t = 4.1 ×10⁻⁴ m². \
 Moment of inertia: I = (B H³)/12 – (B-t)(H-2t)³/12 = 1.333×10⁻⁷ – 4.5×10⁻⁸ = 9.73×10⁻⁸ m⁴.\
 
 **Diagram**\
+<img width="558" height="546" alt="Screenshot 2026-05-03 at 2 00 19 AM" src="https://github.com/user-attachments/assets/dc313abf-4622-4417-b937-1fee80e024b5" />
 
 **Discussion on Usability of Design**\
 Aluminium makes the nutcracker lightweight and mass-efficient, while the 200 mm length is ergonomic for hand operation. There is slight cushioning from the beams, which may reduce shock from the nut cracking. The I-beam can be created in a factory easily, since it is very widely used. However, the shape might be an odd choice for a nutcracker. 

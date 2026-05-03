@@ -20,3 +20,4 @@ First, I drew a free body diagram of a potential nutcracker. I made it very simp
 Then, for the linear actuator I repeated the previous calculations but with different values. The proportion of lc/ln was 2.17, and the length was 11.59 cm with a diameter of 13 cm. \
 **Usability of design**\
 The design does not seem very usable, since the diameter was 11.11 cm for the first one which is large and hard to grip onto. For the linear actuator, it is still quite large and likely unwieldy. 
+

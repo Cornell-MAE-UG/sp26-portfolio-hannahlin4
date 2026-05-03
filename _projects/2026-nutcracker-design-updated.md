@@ -15,7 +15,9 @@ Mechanical advantage: Lc/Ln= 2/17\
 Force applied at the handle= 2179 N/2.17=1004 N\
 Handle length=0.2 m\
 Maximum deflection=0.2 m(0.02)=0.004 m\
-Aluminum Material Properties\
+Aluminum Properties:\
+E=69 GPa\
+ρ=2700 kg/m^3\
 **Approach to the Problem**\
 Assumptions:
 1. The handle is modeled as a cantilever beam fixed at the pivot point.\
